@@ -1,0 +1,17 @@
+<ImageView
+    android:background          = "#fff"
+    android:gravity             = "left"
+    android:id                  = "@+id/imageView1"
+    android:layout_gravity      = "center_horizontal"
+    android:layout_height       = "fill_parent"
+    android:layout_height       = "wrap_content"
+    android:layout_width        = "wrap_content"
+    android:onClick             = "onClickCheatSheet"
+    android:paddingBottom="50dp"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="3dp"
+    android:scaleType="fitXY"
+    android:scrollHorizontally  = "false"
+    android:src                 = "@drawable/android" // file name in drawable folder
+/>

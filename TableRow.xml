@@ -1,0 +1,11 @@
+<TableRow
+    android:background="#f44262"            // Background color in hex
+    android:gravity="center"
+    android:id="@+id/tableRow1"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:layout_height="wrap_content"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    >
+</TableRow>

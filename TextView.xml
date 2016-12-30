@@ -1,0 +1,26 @@
+<TextView
+    android:ellipsize           = "end"
+    android:gravity             = "center"
+    android:gravity             = "left"
+    android:gravity             = "right"
+    android:id                  = "@+id/txtIdName"
+    android:layout_gravity      = "right"                  // for the view component in column "x"
+    android:layout_gravity      = "right|center_vertical"
+    android:layout_height       = "fill_parent"
+    android:layout_width        = "wrap_content"
+    android:maxLines            = "1"
+    android:padding             = "3dip"
+    android:scrollHorizontally  = "false"
+    android:singleLine          = "true"
+    android:text                = "text example"
+    android:textColor           = "#000"
+    android:textSize            = "18sp"
+    android:textStyle           = "bold"               // Bolds a text
+    android:textStyle           = "bold|italic"        // Bold and italic a text
+    android:textStyle           = "italic"             // italics a text
+    android:typeface            = "monospace"          // only allows selective fonts
+    app:customTypeface          = "fonts/pompiere.ttf" // custom font - Font folder within the assets folder
+/>
+
+<!-- https://developer.android.com/reference/android/widget/TextView.html   -->
+<!-- https://developer.xamarin.com/api/type/Android.Widget.TextView         -->

@@ -1,0 +1,11 @@
+<TableLayout
+    android:id="@+id/testTableName"
+    android:layout_below="@+id/aboveObjectID"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="34dp"
+    android:layout_width="fill_parent"      // to ensure everything fills the screen
+    android:stretchColumns="1"              // the column you want to fill
+    android:stretchColumns="0,1,2"          // the columns you want to fill
+    >
+</TableLayout>

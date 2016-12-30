@@ -1,0 +1,6 @@
+<style
+    name   = "ActionBar"
+    parent = "@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse"
+    >
+    <item></item>
+</style>

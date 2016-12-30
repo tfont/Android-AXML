@@ -1,0 +1,8 @@
+<RelativeLayout
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="0.5"             // will force the to fill half of the layout
+    android:background="#ff0000"
+    >
+    <ImageView/>
+</RelativeLayout>
